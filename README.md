@@ -42,7 +42,9 @@ ecommerce-sql-analysis/
 ├── report/
 │   └── ecommerce_analysis_report.md
 │
-└── README.md
+├── README.md
+│
+└── Screenshots.pdf
 ```
 
 ---
