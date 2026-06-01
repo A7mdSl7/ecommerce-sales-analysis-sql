@@ -138,18 +138,7 @@ Used `HAVING SUM(TotalPrice) > 5000` — all major products passed this threshol
 
 ---
 
-## 📄 Full Report
-
-The detailed written report with all insights and recommendations is available here:
-👉 [`report/ecommerce_analysis_report.md`](report/ecommerce_analysis_report.md)
-
----
-
 ## 👤 Author
 
 **Ahmed**
 AI Student | Data Analysis Track
-
----
-
-*This project is part of a personal data analysis portfolio.*
